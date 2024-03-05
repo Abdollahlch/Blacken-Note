@@ -1,0 +1,26 @@
+C:\Users\hp\Desktop\Programming\C#\Lessons\Windows Forms\Projects\MyNotes\bin\Debug\MyNotes.exe.config
+C:\Users\hp\Desktop\Programming\C#\Lessons\Windows Forms\Projects\MyNotes\bin\Debug\MyNotes.exe
+C:\Users\hp\Desktop\Programming\C#\Lessons\Windows Forms\Projects\MyNotes\bin\Debug\MyNotes.pdb
+C:\Users\hp\Desktop\Programming\C#\Lessons\Windows Forms\Projects\MyNotes\bin\Debug\Guna.UI2.dll
+C:\Users\hp\Desktop\Programming\C#\Lessons\Windows Forms\Projects\MyNotes\obj\Debug\MyNotes.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Programming\C#\Lessons\Windows Forms\Projects\MyNotes\obj\Debug\MyNotes.AddNewNote.resources
+C:\Users\hp\Desktop\Programming\C#\Lessons\Windows Forms\Projects\MyNotes\obj\Debug\MyNotes.Form1.resources
+C:\Users\hp\Desktop\Programming\C#\Lessons\Windows Forms\Projects\MyNotes\obj\Debug\MyNotes.Properties.Resources.resources
+C:\Users\hp\Desktop\Programming\C#\Lessons\Windows Forms\Projects\MyNotes\obj\Debug\MyNotes.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Programming\C#\Lessons\Windows Forms\Projects\MyNotes\obj\Debug\MyNotes.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Programming\C#\Lessons\Windows Forms\Projects\MyNotes\obj\Debug\MyNotes.csproj.CopyComplete
+C:\Users\hp\Desktop\Programming\C#\Lessons\Windows Forms\Projects\MyNotes\obj\Debug\MyNotes.exe
+C:\Users\hp\Desktop\Programming\C#\Lessons\Windows Forms\Projects\MyNotes\obj\Debug\MyNotes.pdb
+C:\Users\hp\Desktop\MyNotes\bin\Debug\MyNotes.exe.config
+C:\Users\hp\Desktop\MyNotes\bin\Debug\MyNotes.exe
+C:\Users\hp\Desktop\MyNotes\bin\Debug\MyNotes.pdb
+C:\Users\hp\Desktop\MyNotes\bin\Debug\Guna.UI2.dll
+C:\Users\hp\Desktop\MyNotes\obj\Debug\MyNotes.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\MyNotes\obj\Debug\MyNotes.AddNewNote.resources
+C:\Users\hp\Desktop\MyNotes\obj\Debug\MyNotes.Form1.resources
+C:\Users\hp\Desktop\MyNotes\obj\Debug\MyNotes.Properties.Resources.resources
+C:\Users\hp\Desktop\MyNotes\obj\Debug\MyNotes.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\MyNotes\obj\Debug\MyNotes.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\MyNotes\obj\Debug\MyNotes.csproj.CopyComplete
+C:\Users\hp\Desktop\MyNotes\obj\Debug\MyNotes.exe
+C:\Users\hp\Desktop\MyNotes\obj\Debug\MyNotes.pdb
